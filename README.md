@@ -18,7 +18,7 @@ Most of my work is **offline-first documentation and writeups** (case studies, d
 
 ## Certifications
 
-- [Add your certifications here (name + date + link/proof if public)]
+- SC-200 (in progress)
 
 ## Skills & Tools
 
