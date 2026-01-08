@@ -1,6 +1,6 @@
-# Hi, I'm Ted N — Aspiring Cybersecurity Analyst & Tech Creator
+# Welcome to my GitHub
 
-Welcome to my GitHub! Here, I showcase my hands-on experience in **cybersecurity**, **software projects**, and **fitness tech apps**.
+My name is Michael Ted, a BsC in Information Security and Forensics student focused on purple teaming. Here, I showcase my hands-on experience in **cybersecurity**, **software projects**, and **fitness tech apps**.
 This portfolio is organized to tell a clear story of skill, initiative, and problem-solving.
 
 ---
@@ -34,7 +34,7 @@ These show my **build and problem-solving abilities outside strict security cont
 
 ## Fitness (Professional Tech Apps)
 
-These highlight my **fitness/health tech projects**, where I merge software development with real-world gym workflows.
+These highlight my **fitness/health tech projects**, where I merge software development with real-world gym workflows. I happen to own a gym, so most of the projects here revolve around fitness-related operations. 
 
 | Repo | What you’ll see |
 |------|----------------|
